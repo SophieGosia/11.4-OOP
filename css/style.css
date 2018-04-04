@@ -5,7 +5,7 @@ body {
   text-align: center;
 }
 
-body .heading {
+.main-section .heading {
   text-transform: uppercase;
   font-family: 'Bungee Shade', cursive;
   font-weight: 300;
@@ -31,7 +31,7 @@ body .heading {
   }
 }
 
-body .main-video {
+.main-section .main-video {
   margin-top: 50px;
 }
 

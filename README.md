@@ -1,6 +1,6 @@
 11.4 - OOP classes
 
-https://codepen.io/sophie_gosia/
+https://codepen.io/sophie_gosia/pen/QmVEBP
 
 How to run this project: 
 
